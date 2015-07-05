@@ -1,11 +1,11 @@
-FreeSOC2 FreeRTOS Demo
+FreeSoC2 FreeRTOS Demo
 ======================
 
-This is a simple PSOC Creator project for the Sparkfun FreeSOC2 board demonstrating the use of FreeRTOS.
+This is a simple PSOC Creator project for the Sparkfun FreeSoC2 board demonstrating the use of FreeRTOS.
 
 The FreeRTOS files needed to build this demo have been copied into this project.
 
-In real life, *please don't do this*.   You should instead follow the conventions of FreeRTOS and reference FreeRTOS from its installation directory, following the direction of FreeRTOS documentation.
+In real life, **please don't do this**.   You should instead follow the conventions of FreeRTOS and reference FreeRTOS from its installation directory, following the direction of FreeRTOS documentation.
 
 This configuration is placed this way in this project simply to facilitate an easy introduction.
 
